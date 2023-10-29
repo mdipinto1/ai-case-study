@@ -29,7 +29,7 @@ TRI received an initial investment of $1 Billion from 2015-2020 from Toyota to s
 TRI does not have a specific problem that the company is targeting. Their vision statement, seen below, is oriented around enabling Toyota products to dramatically improve quality of life for individuals and society. In addition to their vision, their mission statement focuses on accomplishing that goal through research in materials, AI, machine learning, and robotics [7]
 
 > VISION
-TRI envisions a future where Toyota products, enabled by TRI technology, dramatically improve quality of life for individuals and society.
+>>TRI envisions a future where Toyota products, enabled by TRI technology, dramatically improve quality of life for individuals and society.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
   
