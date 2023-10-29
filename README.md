@@ -75,3 +75,30 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 
 
 [^1]:[Toyota Operations, Design, Engineering & Marketing](https://www.toyota.com/usa/operations/map/tri_california#:~:text=Led%20by%20Dr.,California%2C%20and%20Cambridge%2C%20Massachusetts.)
+
+[^2]:[Dr Gill Pratt](https://www.tri.global/about-us/dr-gill-pratt)
+
+[^3]:[Toyota Will Establish New Artificial Intelligence Research and Development Company](https://www.tri.global/news/toyota-will-establish-new-artificial-intelligence-research-and-development-company)
+
+[^4]:[Episode 61 of “Materialism: A Materials Science Podcast” with Joseph Montoya](https://materialismpodcast.com/episodes.html)
+
+[^5]:[Episode 36 of “AI Today Podcast” with Jim Adler, Executive Adviser at TRI](https://www.aidatatoday.com/ai-today-podcast-36-interview-with-jim-adler-toyota-ai-ventures/)
+
+[^6]:[Toyota Revenue 2010-2023 | TM | MacroTrends](https://www.macrotrends.net/stocks/charts/TM/toyota/revenue#:~:text=Toyota%20annual%20revenue%20for%202023,a%207.1%25%20decline%20from%202020.)
+
+[^7]: 
+
+Main Page, TRI Global
+Homepage | Toyota Research Institute (tri.global)
+
+[^8]:
+Careers Page
+Careers | Toyota Research Institute (tri.global)
+
+[^9]:[Machine Learning in Automotive: Pros, Cons, and Applications]
+
+[^10]:
+
+[^11]: Car sales by manufacturer
+Top 15 Automakers in the World | Car Sales Rank Worldwide (factorywarrantylist.com)
+
