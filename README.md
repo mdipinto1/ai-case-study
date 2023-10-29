@@ -88,8 +88,14 @@ From start to finish, this process would utilize generative AI, graphics design 
 
 * Why are these technologies appropriate for your solution?
 
+* Generative AI would help users quickly created unique designs without familiarity with graphics design and removing any software compatability issues from the process.
+* A web-based graphics design software could allow users to make manual adjustments and tune the design without starting from scratch.
+* Computer vision would be necessary to transpose the digital design into the physical world, recognizing the limits of the workspace, for example a hood, and correlating that to the source image scale.
+* Robotics would be appropriate as it would allow for vastly increased production rate as compared to humans, reduction in health risks from paint fumes, and conforms to the industry standard of the automated production line.
 
-## References
+
+
+### References
 ___
 [^1]:[Toyota Operations, Design, Engineering & Marketing](https://www.toyota.com/usa/operations/map/tri_california#:~:text=Led%20by%20Dr.,California%2C%20and%20Cambridge%2C%20Massachusetts.)
 
