@@ -86,19 +86,12 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 
 [^6]:[Toyota Revenue 2010-2023 | TM | MacroTrends](https://www.macrotrends.net/stocks/charts/TM/toyota/revenue#:~:text=Toyota%20annual%20revenue%20for%202023,a%207.1%25%20decline%20from%202020.)
 
-[^7]: 
+[^7]:[Homepage | Toyota Research Institute](tri.global)
 
-Main Page, TRI Global
-Homepage | Toyota Research Institute (tri.global)
+[^8]:[Careers | Toyota Research Institute](https://www.tri.global/careers#open-positions)
 
-[^8]:
-Careers Page
-Careers | Toyota Research Institute (tri.global)
-
-[^9]:[Machine Learning in Automotive: Pros, Cons, and Applications]
+[^9]:[Machine Learning in Automotive: Pros, Cons, and Applications](https://pixelplex.io/blog/machine-learning-in-automotive/)
 
 [^10]:
 
-[^11]: Car sales by manufacturer
-Top 15 Automakers in the World | Car Sales Rank Worldwide (factorywarrantylist.com)
-
+[^11]:[Top 15 Automakers in the World | Car Sales Rank Worldwide](https://www.factorywarrantylist.com/car-sales-by-manufacturer.html)
