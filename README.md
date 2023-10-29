@@ -61,7 +61,7 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 It's extremely difficult to quantify a numerical impact of a R&D division or subsidiary, however a few articles can help reflect the significance of the research being conducted. 
 
 An article posted by MIT News stated the following: 
->The paper’s most significant practical finding — that these variations in reaction rate are correlated with differences in the thickness of the carbon coating on the surface of the particles — could lead to improvements in the efficiency of charging and discharging such batteries. [10]
+>The paper’s most significant practical finding — that these variations in reaction rate are correlated with differences in the thickness of the carbon coating on the surface of the particles — could lead to improvements in the efficiency of charging and discharging such batteries. [^10]
 
 As the prevalence of Lithium Iron Phosphate (LiFePO) batteries increases, an increase in battery efficency directly correlates to lower envionmental impacts per unit.
 
