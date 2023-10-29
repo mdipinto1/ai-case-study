@@ -71,3 +71,7 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+[^1]: My reference
