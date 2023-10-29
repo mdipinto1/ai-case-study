@@ -89,7 +89,7 @@ From start to finish, this process would utilize generative AI, graphics design 
 * Why are these technologies appropriate for your solution?
 
 
-##References
+## References
 ___
 [^1]:[Toyota Operations, Design, Engineering & Marketing](https://www.toyota.com/usa/operations/map/tri_california#:~:text=Led%20by%20Dr.,California%2C%20and%20Cambridge%2C%20Massachusetts.)
 
