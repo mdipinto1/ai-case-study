@@ -40,10 +40,14 @@ Because their research is so broad reaching, they use numerous technologies depe
 ## Landscape
 
 * What field is the company in?
+  
 TRI directly supports the automotive industry, however their research is intended to provide resources throughout daily life. This ranges from companion robots that remind humans to take medications to more efficient energy solutions that reduce carbon emissions. [4][5]
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+  
 With respect to the automotive industry, there are countless areas and trends. However, a few key trends are the following: Increased Safety for occupants and pedestrians, increased efficiency, reducing cost through predictive maintenance, and autonomous driving. [9]
 * What are the other major companies in this field?
+  
+The top 5 companies within the sector (in quantity of vehicles sold) are Toyota, Volkswagen, Hyundai Kia, Stellantis, and General Motors. There are at least 15 manufacturers globally that sell over 1 million vehicles annually. [11] Additionally, and more relevant to the context of this case study, each of these companies has dedicated Research and Innovation divisions, many of which expand beyond just automotive applications. 
 
 ## Results
 
