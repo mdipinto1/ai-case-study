@@ -114,6 +114,6 @@ From start to finish, this process would utilize generative AI, graphics design 
 
 [^12]:[Toyota Research Institute unveils generative AI-powered vehicle design tool](https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/)
 
-[^13][15 Most Profitable Car Companies in the World](https://finance.yahoo.com/news/15-most-profitable-car-companies-124926108.html)
+[^13]:[15 Most Profitable Car Companies in the World](https://finance.yahoo.com/news/15-most-profitable-car-companies-124926108.html)
 
-[^14][Report: Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
+[^14]:[Report: Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
