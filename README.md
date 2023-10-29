@@ -69,14 +69,22 @@ In a totally separate line of effort, TRI demonstrated generative AI for optimiz
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
+  
+Toyota is the top automotive manufacturer in terms of vehicles sold annually. Furthermore, when considering gross profit, it is in the top 3 manufacturers. Lastly, within the US Market, it recently overtook General Motors, being the first company to out-sell GM _since 1931_.  [^13]
+
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+  
+With the increasing maturity of generative AI, I would recommend a customization service at the time of ordering for a vehicle that would allow customers to design a custom paint-job. This would be reasonably achieveable with the increase in automation in automotive production (i.e. painting robots). The 'customer story' in this case would be that a customer can open an AI driven tool (derived from the aerodynamics generative AI tool mentioned above) and customize the paint of their vehicle. At first this could just be custom mixing for individualized colors, and could ultimately lead to customized striping, designs, and even images. 
 * Why do you think that offering this product or service would benefit the company?
 
+Customization is a huge sub-industry, generating $8 Billion annually. A significant portion of these sales are spent on exterior modifications including full-body wraps. [^14] The cost of a wrap can be up to $10,000 at a professional shop. Offering custom paint from the factory, performed semi-autonomously could offer aesthetic benefits to customers and financial benefits to Toyota.
+
 * What technologies would this additional product or service utilize?
+
+From start to finish, this process would utilize generative AI, graphics design software, Computer Vision, and various robotic steps (paint mixing, priming, painting, inspection).
 
 * Why are these technologies appropriate for your solution?
 
@@ -104,4 +112,8 @@ In a totally separate line of effort, TRI demonstrated generative AI for optimiz
 
 [^11]:[Top 15 Automakers in the World | Car Sales Rank Worldwide](https://www.factorywarrantylist.com/car-sales-by-manufacturer.html)
 
-  [^12]:[Toyota Research Institute unveils generative AI-powered vehicle design tool (https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/)
+[^12]:[Toyota Research Institute unveils generative AI-powered vehicle design tool](https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/)
+
+[^13][15 Most Profitable Car Companies in the World](https://finance.yahoo.com/news/15-most-profitable-car-companies-124926108.html)
+
+[^14][Report: Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
