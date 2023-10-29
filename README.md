@@ -74,4 +74,4 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 
 
 
-[^1]: My reference
+[^1]:[Toyota Operations, Design, Engineering & Marketing](https://www.toyota.com/usa/operations/map/tri_california#:~:text=Led%20by%20Dr.,California%2C%20and%20Cambridge%2C%20Massachusetts.)
