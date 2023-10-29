@@ -70,7 +70,7 @@ In a totally separate line of effort, TRI demonstrated generative AI for optimiz
 
 * How is your company performing relative to competitors in the same field?
   
-Toyota is the top automotive manufacturer in terms of vehicles sold annually. Furthermore, when considering gross profit, it is in the top 3 manufacturers. Lastly, within the US Market, it recently overtook General Motors, being the first company to out-sell GM _since 1931_.  [^13]
+Toyota is the top automotive manufacturer in terms of vehicles sold annually. Furthermore, when considering gross profit, it is in the top 3 manufacturers. Lastly, within the US Market, it recently overtook General Motors, being the first company to out-sell GM _since 1931_. [^13]
 
 
 ## Recommendations
