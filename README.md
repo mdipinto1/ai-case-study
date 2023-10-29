@@ -26,7 +26,11 @@ TRI received an initial investment of $1 Billion from 2015-2020 from Toyota to s
 
 * What specific problem is the company or project trying to solve?
   
-TRI does not have a specific problem that the company is targeting. Their vision statement is oriented around enabling Toyota products to dramatically improve quality of life for individuals and society. In addition to their vision, their mission statement focuses on accomplishing that goal through research in materials, AI, machine learning, and robotics [7]
+TRI does not have a specific problem that the company is targeting. Their vision statement, seen below, is oriented around enabling Toyota products to dramatically improve quality of life for individuals and society. In addition to their vision, their mission statement focuses on accomplishing that goal through research in materials, AI, machine learning, and robotics [7]
+
+> VISION
+TRI envisions a future where Toyota products, enabled by TRI technology, dramatically improve quality of life for individuals and society.
+
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
   
 TRI directly supports future development and discovery to support Toyota Motor Corporation. As explained by Jim Adler in a 2018 inerview with AI Today Podcast, An important caveat to their development is that it is not entirely automotive focused, as Toyota believes in remaining diverse and pivoting as required to continue to provide value to consumers.[5] Toyota Motor Corp's annual Revenue is consistently over $250 Billion [6]
