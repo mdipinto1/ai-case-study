@@ -1,6 +1,6 @@
 # ai-case-study
 
-# TITLE
+# Toyota's Toyota Research Institute
 
 ## Overview and Origin
 
