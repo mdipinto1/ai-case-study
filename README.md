@@ -116,4 +116,4 @@ From start to finish, this process would utilize generative AI, graphics design 
 
 [^13]:[15 Most Profitable Car Companies in the World](https://finance.yahoo.com/news/15-most-profitable-car-companies-124926108.html)
 
-[^14]:[Report: Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
+[^14]:[Report Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
