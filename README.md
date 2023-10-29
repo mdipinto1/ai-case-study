@@ -5,7 +5,7 @@
 ## Overview and Origin
 
 * Name of company
-
+      * Toyota Research Institute
 * When was the company incorporated?
 
 * Who are the founders of the company?
