@@ -33,15 +33,16 @@ TRI directly supports future development and discovery to support Toyota Motor C
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   
 Jim Adler further explained in his interview with AI Today that the most important companies of the future are software centric. In order to remain relevant and dominant within the industry, they need to develop as a software and AI company that makes vehicles. The unfair advantage they bring to the market is a fully developed vehicle manufacturing capability to integrate their developments into, he referred to this head start as a "tremendous mote around the business". [5] 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-  Because their research is so broad reaching, they use numerous technologies depending on the application. Dr. Joseph Montoya is a staff research scientist in the TRI Energy & Materials division. His work specifically has focused in increasing efficiency and longevity in hydrogen fuel cells, one application of ML in his research was drawing inferences for complex alloys from their component elements, beyond what would be available in convential literature and phase diagrams [4]. It can also be inferred the specific tools they are working with include Pytorch, OpenCV, etc. from reading qualifications on their careers page. [8]
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)]
+  
+Because their research is so broad reaching, they use numerous technologies depending on the application. Dr. Joseph Montoya is a staff research scientist in the TRI Energy & Materials division. His work specifically has focused in increasing efficiency and longevity in hydrogen fuel cells, one application of ML in his research was drawing inferences for complex alloys from their component elements, beyond what would be available in convential literature and phase diagrams [4]. It can also be inferred the specific tools they are working with include Pytorch, OpenCV, etc. from reading qualifications on their careers page. [8]
 
 ## Landscape
 
 * What field is the company in?
-
+TRI directly supports the automotive industry, however their research is intended to provide resources throughout daily life. This ranges from companion robots that remind humans to take medications to more efficient energy solutions that reduce carbon emissions. [4][5]
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
+With respect to the automotive industry, there are countless areas and trends. However, a few key trends are the following: Increased Safety for occupants and pedestrians, increased efficiency, reducing cost through predictive maintenance, and autonomous driving. [9]
 * What are the other major companies in this field?
 
 ## Results
