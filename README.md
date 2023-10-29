@@ -67,7 +67,8 @@ As the prevalence of Lithium Iron Phosphate (LiFePO) batteries increases, an inc
 
 In a totally separate line of effort, TRI demonstrated generative AI for optimizing vehicle aerodynamics. This capability could vastly reduce the number of hours required to optomize a vehicle's design. [^12] What makes TRI's form of generative AI unique is the ability to incorporate design constraints that govern engineering principals and safety practices.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
+  
+Some of the key metrics for the automotive industry are total units manufactured, cost of manufacturing, and total recalls (among many others that are considerably harder to find data for). [^15] Among these statistics, Toyota is the top manufactured in terms of units. However, when observing gross margin as a percentage, they achieve a 6.6% margin, compared to margins over 10% for the most profitable companies. That said, different business strategies and investment techniques can dramatically affect the appearance of margin. Lastly, despite being the largest manufacturer, Toyota is not within the top 10 list for the number of recalls issued per Company. Overall, Toyota is excelling in key metrics within the automotive industry.
 * How is your company performing relative to competitors in the same field?
   
 Toyota is the top automotive manufacturer in terms of vehicles sold annually. Furthermore, when considering gross profit, it is in the top 3 manufacturers. Lastly, within the US Market, it recently overtook General Motors, being the first company to out-sell GM _since 1931_. [^13]
@@ -124,3 +125,5 @@ ___
 [^13]:[15 Most Profitable Car Companies in the World](https://finance.yahoo.com/news/15-most-profitable-car-companies-124926108.html)
 
 [^14]:[Report Young car enthusiasts spend $7.2 billion a year customizing vehicles](https://www.chicagotribune.com/orl-ara-33041-report-young-car-enthusiasts-spend-7-2-billion-a-year-customizing-vehicles-20190321-adstory.html)
+
+[^15]:[The Automotive Industry’s 11 Most Critical Metrics](https://guidingmetrics.com/content/key-automotive-industry-metrics/)
