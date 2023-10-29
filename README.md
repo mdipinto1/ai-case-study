@@ -57,7 +57,15 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 ## Results
 
 * What has been the business impact of this company so far?
+  
+It's extremely difficult to quantify a numerical impact of a R&D division or subsidiary, however a few articles can help reflect the significance of the research being conducted. 
 
+An article posted by MIT News stated the following: 
+>The paper’s most significant practical finding — that these variations in reaction rate are correlated with differences in the thickness of the carbon coating on the surface of the particles — could lead to improvements in the efficiency of charging and discharging such batteries. [10]
+
+As the prevalence of Lithium Iron Phosphate (LiFePO) batteries increases, an increase in battery efficency directly correlates to lower envionmental impacts per unit.
+
+In a totally separate line of effort, TRI demonstrated generative AI for optimizing vehicle aerodynamics. This capability could vastly reduce the number of hours required to optomize a vehicle's design. [^12] What makes TRI's form of generative AI unique is the ability to incorporate design constraints that govern engineering principals and safety practices.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
@@ -92,6 +100,8 @@ The top 5 companies within the sector (in quantity of vehicles sold) are Toyota,
 
 [^9]:[Machine Learning in Automotive: Pros, Cons, and Applications](https://pixelplex.io/blog/machine-learning-in-automotive/)
 
-[^10]:
+[^10]:[Pixel-by-pixel analysis yields insights into lithium-ion batteries](https://news.mit.edu/2023/pixel-analysis-yields-insights-lithium-ion-batteries-0913)
 
 [^11]:[Top 15 Automakers in the World | Car Sales Rank Worldwide](https://www.factorywarrantylist.com/car-sales-by-manufacturer.html)
+
+  [^12]:[Toyota Research Institute unveils generative AI-powered vehicle design tool (https://venturebeat.com/ai/toyota-research-institute-unveils-generative-ai-powered-vehicle-design-tool/)
